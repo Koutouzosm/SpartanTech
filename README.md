@@ -1,1 +1,1 @@
-# crave
+# Spartan Tech Website
